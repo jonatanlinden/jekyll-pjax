@@ -1,0 +1,22 @@
+{
+  "name": "jekyll-pjax",
+  "description": "",
+  "main": "lib/jekyll-pjax.js",
+  "authors": [
+    "Jonatan Lindén"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".babelrc",
+    "bower.json",
+    "package.json",
+    "README.md",
+    "src"
+  ]
+}
